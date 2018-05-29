@@ -16,4 +16,4 @@ The simplest architecture possible, consisting of a:
 ### Loss Function: Cross Entropy
 
 ### Training Accuracy: 98%
-### Test Accuracy: 98%
+### Test Accuracy: 92% - 100% (based on splits)
